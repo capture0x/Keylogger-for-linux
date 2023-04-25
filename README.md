@@ -43,7 +43,7 @@ pyinstaller --noconsole --onefile keylogger.py
 
 ## Bugs and enhancements
 
-This tool is for educational purposes only.
+**This tool is for educational purposes only ,any illegal use is not accepted**
 For bug reports or enhancements, please open an [issue](https://github.com/capture0x/mailExtractor/issues) here.
 
 **Copyright 2020**
